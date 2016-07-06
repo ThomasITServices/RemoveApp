@@ -27,6 +27,6 @@ Else
         objSoftware.Uninstall()
     Next
 
-    objShell.popup dlgCompleted,5,dlgName
+    objShell.popup dlgCompleted,5,dlgName,64
 
 End if
